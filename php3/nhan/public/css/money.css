@@ -1,0 +1,41 @@
+.rounded-lg {
+    border-radius: 1rem !important
+}
+
+.text-small {
+    font-size: 0.9rem !important
+}
+
+.col-lg-4.mb-5.mb-lg-0 {
+    padding-top: 30px;
+}
+
+.pricing {
+    color: #fff
+}
+
+.custom-separator {
+    width: 5rem;
+    height: 6px;
+    border-radius: 1rem
+}
+
+.text-uppercase {
+    letter-spacing: 0.2em
+}
+
+.btn-warning {
+    color: #fff
+}
+
+.btn-warning:hover {
+    color: #fff
+}
+
+body {
+    background: #FFF8DC;
+    background: -webkit-linear-gradient(to right, #FFF8DC, #FFF8DC);
+    background: linear-gradient(to right, #FFF8DC, #FFF8DC);
+    color: #514B64;
+    min-height: 150vh
+}

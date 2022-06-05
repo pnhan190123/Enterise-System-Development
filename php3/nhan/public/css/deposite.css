@@ -1,0 +1,38 @@
+.modal-body1 h1 {
+    font-weight: 900;
+    font-size: 2.3em;
+    text-transform: uppercase;
+}
+
+body {
+    background-image: url('https://d187qskirji7ti.cloudfront.net/news/wp-content/uploads/2015/03/cash-deposit-fees-e1496263261222.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+input#typeNumber {
+    width: 224px;
+    border-radius: 5px;
+}
+
+.modal-body1 input.pre-order-btn {
+    color: #000;
+    background-color: gold;
+    border-radius: 1em;
+    padding: 1em;
+    display: block;
+    margin: 2em auto;
+    width: 50%;
+    font-size: 1.25em;
+    font-weight: 6600;
+}
+
+.modal-body1 input.pre-order-btn:hover {
+    background-color: #000;
+    text-decoration: none;
+    color: gold;
+}
+
+div#myModal {
+    margin-top: 15%;
+}

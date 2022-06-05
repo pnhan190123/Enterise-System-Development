@@ -1,0 +1,17 @@
+
+#holder img {
+    height: 15em !important;
+    margin: 30px 0px 50px 0px;
+}
+
+.alert-primary {
+    color: #ffffff;
+    background-color: #0f48ff;
+    border-color: #cdd8f6;
+}
+
+.alert-danger {
+    color: #ffffff;
+    background-color: #e74a3b;
+    border-color: #f8ccc8;
+}
